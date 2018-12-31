@@ -1,0 +1,20 @@
+name: APanel
+main: su.mellgrief.apanel.Main
+version: 1.4
+author: MellGrief
+commands:
+  apanel:
+    description: apanel 1-9
+    usage: /apanel 1-9
+  report:
+    description: report
+    usage: /report %your report%
+  reportquest:
+    description: report
+    usage: /reportquest %nick% %answer%
+  ask:
+    description: report
+    usage: /ask %your question%
+  askquest:
+    description: report
+    usage: /askquest %nick% %answer%
